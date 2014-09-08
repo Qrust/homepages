@@ -1,3 +1,3 @@
 =============
 Preview: 
-![Alt text](/screenshot.png)
+(screenshot.png)
